@@ -1,4 +1,4 @@
-SELECT 5edte
+SELECT
 	JSON_ARRAYAGG(
 		JSON_OBJECT(
 			'id_event',
