@@ -1,4 +1,4 @@
-SELECT hjj
+SELECT
 	JSON_ARRAYAGG(
 		JSON_OBJECT(
 			'id_event',
